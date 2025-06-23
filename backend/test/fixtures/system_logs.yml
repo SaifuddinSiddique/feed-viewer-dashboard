@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  system_name: MyString
+  log_level: MyString
+  log_message: MyText
+  log_time: 2025-06-23 16:54:48
+
+two:
+  system_name: MyString
+  log_level: MyString
+  log_message: MyText
+  log_time: 2025-06-23 16:54:48
